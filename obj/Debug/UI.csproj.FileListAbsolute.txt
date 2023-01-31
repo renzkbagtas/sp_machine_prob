@@ -1,0 +1,13 @@
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\bin\Debug\UI.exe.config
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\bin\Debug\UI.exe
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\bin\Debug\UI.pdb
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\bin\Debug\Guna.UI2.dll
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.Forms.Main.resources
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.exe
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.pdb
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.Forms.GroupBody.resources
+C:\Users\Renz\Desktop\Machine Problem\Sourcepass\VS\UI\obj\Debug\UI.Forms.Permissions.resources
